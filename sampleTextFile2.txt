@@ -1,8 +1,0 @@
-This is a Sample text file, text is ok
-
-[A[A[B
-ls
-
-
-
-
